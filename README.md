@@ -1,3 +1,3 @@
 # demo
 First Git Repository
-autohr - Sumeet Sahu
+author - Sumeet Sahu
